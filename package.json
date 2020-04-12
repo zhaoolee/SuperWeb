@@ -1,0 +1,28 @@
+{
+  "name": "SuperWeb",
+  "version": "1.0.0",
+  "description": "超赞网站宝典",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "v2fy": "node push.js",
+    "push": "node push.js && git add . && git commit -m 'ok' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoolee/SuperWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoolee/SuperWeb/issues"
+  },
+  "homepage": "https://github.com/zhaoolee/SuperWeb#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "download": "^7.1.0",
+    "fs-extra": "^8.1.0",
+    "showdown": "^1.9.1"
+  }
+}
