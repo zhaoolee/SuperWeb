@@ -31,6 +31,69 @@
 
 
 
+## [010《绿色软件站》更新极快的Get Into PC](https://igetintopc.com/)
+
+
+Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非常推荐！ 
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/001.png)
+
+**亲测下载Getintopc.com_CCleaner.5.65可用**
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/0011.png)
+CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官网售价 19.95美元
+
+
+## [009《表特日报》订阅漂亮妹子的邮件服务](https://daily-beauty.xyz/)
+
+一个好玩的邮件订阅，名为[「表特日报」](https://daily-beauty.xyz/)，「表特」是Beauty的谐音，也就是就是「颜值报」, 订阅「表特日报」后，每天会收到一封有高颜值妹纸的图片
+
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/beauty_daily.png)
+
+
+## [008《绿色软件站》软件分类详细的Piratepc](https://piratepc.co/)
+
+Piratepc 的软件推荐很不错，而且给众多软件进行了分类，网站运营者是一群热爱互联网和技术的人
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/002.png)
+
+**亲测下载IObit Uninstaller.9.4.0.12可用**
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/0022.png)
+
+IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 19.99美元
+
+
+
+
+## [007《最受男性喜欢的插画》插画P站最受男性喜欢排行榜资源](https://www.pixiv.net/ranking.php?mode=male)
+
+
+Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是一个妥妥的福利页面
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/p.png)
+
+
+
+## [006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据榜单](https://www.kanbilibili.com)
+
+查看bilibili所有UP主粉丝量的排行榜
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/up.png)
+
+直达地址: https://www.kanbilibili.com/rank/ups/fans
+
+通过bilibili粉丝榜,可以轻松找到B站最受欢迎的UP主排名, 如果你在B站首页找不到感兴趣的内容,可以到这个页面找到感兴趣的UP主, 这些UP的视频大多制作精良, 翻看排名靠前UP主的往期视频, 往往能找到很多有趣的知识和段子
+
+查看B站番剧每月播放量最多的视频
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/m.png)
+
+直达地址: https://www.kanbilibili.com/monthly
+
+这个页面属于月刊的性质, 在这里可以找到 2016年1月以来,每月精彩视频的清单, 如果你喜欢视频考古,这个页面能帮你省掉很
+
 ## [005《哔哩哔哩壁纸站》找哔哩哔哩壁纸娘领壁纸](https://space.bilibili.com/6823116#/album) 
 
 ![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/bi-dibu.png)
