@@ -13,6 +13,9 @@
 [超赞网站宝典](https://www.v2fy.com/p/readme-superweb/)
 
 
+[012《今日热榜》一张网页搜罗全网实时热点](https://www.v2fy.com/p/012_tophub_today/)
+
+
 [011《Github趋势榜》了解Github当前最受关注的项目](https://www.v2fy.com/p/011_github_trending/)
 
 
@@ -47,9 +50,13 @@
 
 ---end---
 
+## [012《今日热榜》一张网页搜罗全网实时热点](https://tophub.today/)
 
+如果你喜欢追热点, 这个网页一定不要错过, 你通过这张网页,看遍当前所有主流平台热度最高的新闻
 
+![](https://www.v2fy.com/asset/super-web/tophub_today.png)
 
+相较于今日头条这种,「只让你看你喜欢的」新闻，这种全网「今日热榜」，能让你了解「这个世界到底在发生」
 
 ## [011《Github趋势榜》了解Github当前最受关注的项目](https://github.com/trending)
 
