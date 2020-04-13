@@ -15,6 +15,12 @@
 [超赞网站宝典](https://www.v2fy.com/p/readme-superweb/)
 
 
+[015《下载4K画质Bing壁纸》](https://www.v2fy.com/p/015-bing/)
+
+
+[014《胡萝卜周》著名中文软件分享站](https://www.v2fy.com/p/014_carrotchou_blog/)
+
+
 [013《一言》总有那么几个句子能穿透你的心](https://www.v2fy.com/p/013-hitokoto/)
 
 
@@ -60,6 +66,36 @@
 
 **超赞网站宝典**之**在线工具**，已独立成册为[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 欢迎阅读～
 
+
+## [015《下载4K画质Bing壁纸》](https://bing.lylares.com/)
+
+
+![](https://www.v2fy.com/asset/super-web/bing0413.png)
+
+点开图片还可以看到图片的出处
+
+![](https://www.v2fy.com/asset/super-web/yekong.png)
+
+
+
+文章底部,点击按钮下载
+
+![](https://www.v2fy.com/asset/super-web/bing-down.png)
+
+
+![](https://www.v2fy.com/asset/super-web/6k.png)
+
+
+![](https://www.v2fy.com/asset/super-web/bing-2020-02-22-4k.jpg)
+
+
+## [014《胡萝卜周》著名中文软件分享站](http://www.carrotchou.blog/)
+
+
+从网易博客起步的中文小站，站长绰号「萝卜哥」，「分享绿色软件」是站长的兴趣使然，分享的软件大多为中文汉化版，**种类相对较全**且**完全免费**，可以随意下载
+
+
+![](https://www.v2fy.com/asset/super-web/huluobo.png)
 
 
 ## [013《一言》总有那么几个句子能穿透你的心](https://hitokoto.cn/)
