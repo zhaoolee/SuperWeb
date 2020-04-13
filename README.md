@@ -13,6 +13,21 @@
 [超赞网站宝典](https://www.v2fy.com/p/readme-superweb/)
 
 
+[010《GetIntoPC》更新极快的绿色软件站](https://www.v2fy.com/p/010_igetintopc_com/)
+
+
+[009《表特日报》订阅漂亮妹子的邮件服务]](https://www.v2fy.com/p/009_daily_beauty_xyz/)
+
+
+[008《Piratepc》分类详细的Piratepc绿色软件站](https://www.v2fy.com/p/008_piratepc_co/)
+
+
+[007《Pixiv福利插画!year!》插画P站最受男性喜欢排行榜资源](https://www.v2fy.com/p/007_pixiv_net_ranking_php_mode_mal/)
+
+
+[006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/006_kanbilibili/)
+
+
 [005《哔哩哔哩壁纸站》找哔哩哔哩壁纸娘领壁纸](https://www.v2fy.com/p/005_space_bilibili_album/)
 
 
@@ -31,7 +46,7 @@
 
 
 
-## [010《绿色软件站》更新极快的Get Into PC](https://igetintopc.com/)
+## [010《GetIntoPC》更新极快的绿色软件站](https://igetintopc.com/)
 
 
 Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非常推荐！ 
@@ -52,7 +67,7 @@ CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官�
 ![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/beauty_daily.png)
 
 
-## [008《绿色软件站》软件分类详细的Piratepc](https://piratepc.co/)
+## [008《Piratepc》分类详细的Piratepc绿色软件站](https://piratepc.co/)
 
 Piratepc 的软件推荐很不错，而且给众多软件进行了分类，网站运营者是一群热爱互联网和技术的人
 
@@ -66,8 +81,7 @@ IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 1
 
 
 
-
-## [007《最受男性喜欢的插画》插画P站最受男性喜欢排行榜资源](https://www.pixiv.net/ranking.php?mode=male)
+## [007《Pixiv福利插画!year!》插画P站最受男性喜欢排行榜资源](https://www.pixiv.net/ranking.php?mode=male)
 
 
 Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是一个妥妥的福利页面
@@ -102,8 +116,6 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 ![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/bizhi-008.png)
 
 哔哩哔哩俗称小破站，「我有一个朋友」几乎天天都要打开小破站，B站的内容确实很丰富，官方也会发一些 B站看板娘（22和33）的壁纸，发壁纸的链接在**B站底部**，打开链接后，会看到「壁纸娘」的主页，里面的壁纸可以随意下载，作为手机或电脑的壁纸
-
-
 
 
 
