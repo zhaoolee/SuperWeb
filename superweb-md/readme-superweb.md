@@ -74,7 +74,7 @@ Github的Trending页面,相当于Github的首页推荐,github会把过去24小�
 
 Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非常推荐！ 
 
-![](https://www.v2fy.com/asset/soft-000009-find-crack/001.png)
+![](https://www.v2fy.com/asset/super-web/crack-001.png)
 
 **亲测下载Getintopc.com_CCleaner.5.65可用**
 
@@ -87,18 +87,21 @@ CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官�
 一个好玩的邮件订阅，名为[「表特日报」](https://daily-beauty.xyz/)，「表特」是Beauty的谐音，也就是就是「颜值报」, 订阅「表特日报」后，每天会收到一封有高颜值妹纸的图片
 
 
-![](https://www.v2fy.com/asset/website-000006-beauty/beauty_daily.png)
+![](https://www.v2fy.com/asset/super-web/beauty_daily.png)
 
 
 ## [008《Piratepc》分类详细的Piratepc绿色软件站](https://piratepc.co/)
 
 Piratepc 的软件推荐很不错，而且给众多软件进行了分类，网站运营者是一群热爱互联网和技术的人
 
-![](https://www.v2fy.com/asset/soft-000009-find-crack/002.png)
+![](https://www.v2fy.com/asset/super-web/piratepc-002.png)
+
+
+
 
 **亲测下载IObit Uninstaller.9.4.0.12可用**
 
-![](https://www.v2fy.com/asset/soft-000009-find-crack/0022.png)
+![](https://www.v2fy.com/asset/super-web/find-0022.png)
 
 IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 19.99美元
 
@@ -109,7 +112,7 @@ IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 1
 
 Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是一个妥妥的福利页面
 
-![](https://www.v2fy.com/asset/pix000005/p.png)
+![](https://www.v2fy.com/asset/super-web/pix-p.png)
 
 
 
@@ -117,7 +120,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 查看bilibili所有UP主粉丝量的排行榜
 
-![](https://www.v2fy.com/asset/kanbilibili/up.png)
+![](https://www.v2fy.com/asset/super-web/bili-up.png)
 
 直达地址: https://www.kanbilibili.com/rank/ups/fans
 
@@ -125,7 +128,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 查看B站番剧每月播放量最多的视频
 
-![](https://www.v2fy.com/asset/kanbilibili/m.png)
+![](https://www.v2fy.com/asset/super-web/bili-m.png)
 
 直达地址: https://www.kanbilibili.com/monthly
 
@@ -145,7 +148,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 ## [004《抖音短视频无水印解析下载》通过抖音视频分享链接下载抖音原片~](http://tool.liumingye.cn/douyin/) 
 
 
-![](https://www.v2fy.com/asset/superweb-003-douyin/005.png)
+![](https://www.v2fy.com/asset/super-web/dou-005.png)
 
 ![](https://www.v2fy.com/asset/super-web/001.gif)
 
@@ -156,7 +159,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 网站的功能非常简单，唯一的功能就是激活windows，特色是简单好用!
 
-![](https://www.v2fy.com/asset/superweb-002-v0v-bid/3.png)
+![](https://www.v2fy.com/asset/super-web/win-3.png)
 
 如果激活过程报错，可以[参考这个页面](https://v0v.bid/kms.html)
 
@@ -177,12 +180,12 @@ I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要�
 正义伙伴思杰「马克丁」重新定义了「正版软件」，国内全网很难找到「马克丁」旗下代理软件的绿色版，但《懒得勤快》站长选择硬刚到底，直接给「马克丁」代理软件的绿色版做了一个[「稀缺资源统一下载地址页」](https://masuit.com/misc/5)合集，放到了自己的网站上，为了防止屏蔽, 直接使用IP加端口的分享方式，哈哈，真的强！ （如果到《懒得勤快》网站搜「马克丁」，你基本能搜到「马克丁」的所有黑料，甚至连[表情包](https://masuit.com/1345/%E9%A9%AC%E5%85%8B%E4%B8%81)都有！）
 
 
-![](https://www.v2fy.com/asset/superweb-001-masuit_com/004.png)
+![](https://www.v2fy.com/asset/super-web/masuit_004.png)
 
 
 如果你喜欢看各种毒瘤公司的黑料，可以到[曝光台](https://masuit.com/cat/43)
 
-![](https://www.v2fy.com/asset/superweb-001-masuit_com/001.png)
+![](https://www.v2fy.com/asset/super-web/lan-001.png)
 
 
 

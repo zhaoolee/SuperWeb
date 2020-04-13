@@ -74,7 +74,7 @@ Github的Trending页面,相当于Github的首页推荐,github会把过去24小�
 
 Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非常推荐！ 
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/001.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/crack-001.png)
 
 **亲测下载Getintopc.com_CCleaner.5.65可用**
 
@@ -94,11 +94,14 @@ CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官�
 
 Piratepc 的软件推荐很不错，而且给众多软件进行了分类，网站运营者是一群热爱互联网和技术的人
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/002.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/piratepc-002.png)
+
+
+
 
 **亲测下载IObit Uninstaller.9.4.0.12可用**
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/0022.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/find-0022.png)
 
 IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 19.99美元
 
@@ -109,7 +112,7 @@ IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 1
 
 Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是一个妥妥的福利页面
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/p.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/pix-p.png)
 
 
 
@@ -117,7 +120,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 查看bilibili所有UP主粉丝量的排行榜
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/up.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/bili-up.png)
 
 直达地址: https://www.kanbilibili.com/rank/ups/fans
 
@@ -125,7 +128,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 查看B站番剧每月播放量最多的视频
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/m.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/bili-m.png)
 
 直达地址: https://www.kanbilibili.com/monthly
 
@@ -145,7 +148,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 ## [004《抖音短视频无水印解析下载》通过抖音视频分享链接下载抖音原片~](http://tool.liumingye.cn/douyin/) 
 
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/005.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/dou-005.png)
 
 ![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/001.gif)
 
@@ -156,7 +159,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 网站的功能非常简单，唯一的功能就是激活windows，特色是简单好用!
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/3.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/win-3.png)
 
 如果激活过程报错，可以[参考这个页面](https://v0v.bid/kms.html)
 
@@ -177,12 +180,12 @@ I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要�
 正义伙伴思杰「马克丁」重新定义了「正版软件」，国内全网很难找到「马克丁」旗下代理软件的绿色版，但《懒得勤快》站长选择硬刚到底，直接给「马克丁」代理软件的绿色版做了一个[「稀缺资源统一下载地址页」](https://masuit.com/misc/5)合集，放到了自己的网站上，为了防止屏蔽, 直接使用IP加端口的分享方式，哈哈，真的强！ （如果到《懒得勤快》网站搜「马克丁」，你基本能搜到「马克丁」的所有黑料，甚至连[表情包](https://masuit.com/1345/%E9%A9%AC%E5%85%8B%E4%B8%81)都有！）
 
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/004.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/masuit_004.png)
 
 
 如果你喜欢看各种毒瘤公司的黑料，可以到[曝光台](https://masuit.com/cat/43)
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/001.png)
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/lan-001.png)
 
 
 
