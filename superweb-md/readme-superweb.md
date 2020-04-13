@@ -15,6 +15,9 @@
 [超赞网站宝典](https://www.v2fy.com/p/readme-superweb/)
 
 
+[013《一言》总有那么几个句子能穿透你的心](https://www.v2fy.com/p/013-hitokoto/)
+
+
 [012《今日热榜》一张网页搜罗全网实时热点](https://www.v2fy.com/p/012_tophub_today/)
 
 
