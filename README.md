@@ -13,10 +13,10 @@
 [超赞网站宝典](https://www.v2fy.com/p/readme-superweb/)
 
 
-[010《GetIntoPC》更新极快的绿色软件站](https://www.v2fy.com/p/011_github_trending/)
+[011《Github趋势榜》了解Github当前最受关注的项目](https://www.v2fy.com/p/011_github_trending/)
 
 
-[011《Github趋势榜》了解Github当前最受关注的项目](https://www.v2fy.com/p/010_igetintopc_com/)
+[010《GetIntoPC》更新极快的绿色软件站](https://www.v2fy.com/p/010_igetintopc_com/)
 
 
 [009《表特日报》订阅漂亮妹子的邮件服务](https://www.v2fy.com/p/009_daily_beauty_xyz/)
