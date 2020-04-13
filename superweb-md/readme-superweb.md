@@ -16,7 +16,7 @@
 [010《GetIntoPC》更新极快的绿色软件站](https://www.v2fy.com/p/010_igetintopc_com/)
 
 
-[009《表特日报》订阅漂亮妹子的邮件服务]](https://www.v2fy.com/p/009_daily_beauty_xyz/)
+[009《表特日报》订阅漂亮妹子的邮件服务](https://www.v2fy.com/p/009_daily_beauty_xyz/)
 
 
 [008《Piratepc》分类详细的Piratepc绿色软件站](https://www.v2fy.com/p/008_piratepc_co/)
