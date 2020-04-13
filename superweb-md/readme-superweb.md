@@ -4,7 +4,9 @@
 
 **超赞网站宝典**，是一本互联网旅游攻略，收录有创意/有矿藏的网站，编写**有价值的推荐文章**，附带网站的超链接,  展示**网站内优质矿藏的位置，采矿车的操作技巧**
 
-**超赞网站宝典**在Github开源， 小伙伴们可以到仓库的issues，推荐自己喜欢的网站，也可以将网站发到邮箱  zhaoolee@gmail.com
+**超赞网站宝典**在Github开源,开源地址 [https://github.com/zhaoolee/SuperWeb](https://github.com/zhaoolee/SuperWeb)， 小伙伴们可以到仓库的issues，推荐自己喜欢的网站，也可以将网址发到邮箱 zhaoolee@gmail.com
+
+
 
 ## 目录
 
@@ -49,6 +51,16 @@
 [001《懒得勤快》硬刚业界毒瘤「马克丁」](https://www.v2fy.com/p/001_masuit_com/)
 
 ---end---
+
+
+## 关于子项目 [在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 
+
+**超赞网站宝典**之**在线工具**，已独立成册为[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 欢迎阅读～
+
+
+
+
+
 
 ## [012《今日热榜》一张网页搜罗全网实时热点](https://tophub.today/)
 
@@ -190,3 +202,7 @@ I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要�
 
 
 
+## 同步更新本项目的公众号
+
+
+![](https://www.v2fy.com/asset/super-web/jikemijiqr.png)
