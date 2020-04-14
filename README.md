@@ -15,13 +15,19 @@
 [超赞网站宝典](https://www.v2fy.com/p/readme-superweb/)
 
 
-[015《下载4K画质Bing壁纸》](https://www.v2fy.com/p/015-bing/)
+[017《UiGradients》为PPT找到优质而渐变色背景](https://www.v2fy.com/p/017_uigradients/)
+
+
+[016《知乎根话题精华》知乎Top1000高票回答](https://www.v2fy.com/p/016-zhihu-gen/)
+
+
+[015《下载4K画质Bing壁纸》](https://www.v2fy.com/p/015_bing/)
 
 
 [014《胡萝卜周》著名中文软件分享站](https://www.v2fy.com/p/014_carrotchou_blog/)
 
 
-[013《一言》总有那么几个句子能穿透你的心](https://www.v2fy.com/p/013-hitokoto/)
+[013《一言》总有那么几个句子能穿透你的心](https://www.v2fy.com/p/013_hitokoto/)
 
 
 [012《今日热榜》一张网页搜罗全网实时热点](https://www.v2fy.com/p/012_tophub_today/)
@@ -65,6 +71,30 @@
 ## 关于子项目 [在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 
 
 **超赞网站宝典**之**在线工具**，已独立成册为[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 欢迎阅读～
+
+
+## [017《UiGradients》为PPT找到优质而渐变色背景](https://uigradients.com/)
+
+优秀的设计,大多遵循「多即使少」的原则，用一张优质的渐变色图片，做为PPT背景，可以整体提升你的PPT逼格
+
+
+
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/uigradients.png)
+
+
+UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢渐变色背景，可以尝试到这个网站寻宝
+
+
+
+## [016《知乎根话题精华》知乎Top1000高票回答](https://www.zhihu.com/topic/19776749/top-answers)
+
+世界的问题千千万,有哪些问题是人类最关注的呢?知乎根话题精华给你答案
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/zhihu-gen.png)
+
+这里的问题应该也有你感兴趣的,有些回答真的非常干货,而且回答有趣,甚至可以当小说来读,比如[网络小说里有哪些令人拍案称奇的智障桥段？](https://www.zhihu.com/question/59595588/answer/219963941)
+
 
 
 ## [015《下载4K画质Bing壁纸》](https://bing.lylares.com/)
