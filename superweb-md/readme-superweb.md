@@ -75,6 +75,25 @@
 
 **超赞网站宝典**之**在线工具**，已独立成册为[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 欢迎阅读～
 
+
+## [020《免费精彩图片视频下载》平均品质最高的免费素材站Pexels](https://www.pexels.com/)
+
+免费无版权图片站有很多，而Pexels在免费的同时，更注重品质，通过Pexels，可以更容易找到高品质的图片或视频
+
+
+![](https://www.v2fy.com/asset/super-web/Pexels.png)
+
+
+
+
+## [019《找到全世界的好电影》](https://www.imdb.com/chart/top/)
+
+IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻易找到全世界公认的「好电影」
+
+![](https://www.v2fy.com/asset/super-web/imdb250.png)
+
+
+
 ## [018《文章生成器》根据关键词生成一篇文章](https://suulnnka.github.io/BullshitGenerator/index.html)
 
 
@@ -88,10 +107,7 @@
 据说开发这个程序的缘由,是作者想要搞个学生会退会,但被要求写几万字的申请,于是直接搞了个程序生成,但开发出来之后,发现文章确实「狗屁不通」,于是只好作为测试打印机是否正常工作的程序
 
 
-由于这个项目娱乐性较强，于是被大家争相传播
-
-
-
+由于这个项目娱乐性较强，于是被大家争相传
 
 ## [017《UiGradients》为PPT找到优质而渐变色背景](https://uigradients.com/)
 
