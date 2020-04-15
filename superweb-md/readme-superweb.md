@@ -24,7 +24,7 @@
 [020《品质最高的免费素材站Pexels》优质图片视频素材下载](https://www.v2fy.com/p/020_pexels/)
 
 
-[019《IMDB电影榜单》找到全世界的好电影]](https://www.v2fy.com/p/019_imdb250/)
+[019《IMDB电影榜单》找到全世界的好电影](https://www.v2fy.com/p/019_imdb250/)
 
 
 [018《文章生成器》根据关键词生成一篇文章](https://www.v2fy.com/p/018_bull_shit_generator/)
