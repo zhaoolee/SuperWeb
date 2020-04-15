@@ -1,5 +1,5 @@
 ---
-title:  004《Windows系统一句命令激活》Windows系统激活
+title: 004《Windows系统一句命令激活》Windows系统激活
 ---
 
 

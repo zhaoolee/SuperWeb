@@ -4,7 +4,13 @@
 
 **超赞网站宝典**，是一本互联网旅游攻略，收录有创意/有矿藏的网站，编写**有价值的推荐文章**，附带网站的超链接,  展示**网站内优质矿藏的位置，采矿车的操作技巧**
 
+
+
+
+
 **超赞网站宝典**在Github开源,开源地址 [https://github.com/zhaoolee/SuperWeb](https://github.com/zhaoolee/SuperWeb)， 小伙伴们可以到仓库的issues，推荐自己喜欢的网站，也可以将网址发到邮箱 zhaoolee@gmail.com
+
+
 
 
 
@@ -13,6 +19,12 @@
 ---start---
 
 [超赞网站宝典](https://www.v2fy.com/p/readme-superweb/)
+
+
+[020《品质最高的免费素材站Pexels》优质图片视频素材下载](https://www.v2fy.com/p/020_pexels/)
+
+
+[019《IMDB电影榜单》找到全世界的好电影]](https://www.v2fy.com/p/019_imdb250/)
 
 
 [018《文章生成器》根据关键词生成一篇文章](https://www.v2fy.com/p/018_bull_shit_generator/)
@@ -76,21 +88,30 @@
 **超赞网站宝典**之**在线工具**，已独立成册为[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 欢迎阅读～
 
 
-## [020《免费精彩图片视频下载》平均品质最高的免费素材站Pexels](https://www.pexels.com/)
+## [020《品质最高的免费素材站Pexels》优质图片视频素材下载](https://www.pexels.com/)
 
 免费无版权图片站有很多，而Pexels在免费的同时，更注重品质，通过Pexels，可以更容易找到高品质的图片或视频
 
 
 ![](https://www.v2fy.com/asset/super-web/Pexels.png)
 
+可以通过热门标签页,找到自己喜欢类型的图片
+[https://www.pexels.com/zh-cn/popular-searches/](https://www.pexels.com/zh-cn/popular-searches/)
+
+![](https://www.v2fy.com/asset/super-web/Pexels002.png)
 
 
 
-## [019《找到全世界的好电影》](https://www.imdb.com/chart/top/)
+## [019《IMDB电影榜单》找到全世界的好电影](https://www.imdb.com/chart/top/)
 
 IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻易找到全世界公认的「好电影」
 
 ![](https://www.v2fy.com/asset/super-web/imdb250.png)
+
+
+国人比较喜欢的还有类似的豆瓣电影评分: [https://movie.douban.com/top250](https://movie.douban.com/top250)
+
+![](https://www.v2fy.com/asset/super-web/douban250.png)
 
 
 
