@@ -88,6 +88,54 @@
 **超赞网站宝典**之**在线工具**，已独立成册为[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 欢迎阅读～
 
 
+## [025《人类象形图》专业火柴人素材站](http://pictogram2.com/)
+
+如果以抽象的眼光看人类,人类就是火柴人, 我们在设计各种PPT时,往往要遵循「少即是多」的原则，这个火柴人小站，能为我们提供丰富的火柴人素材来表现人物活动，让我们PPT的设计快速提高一个档次
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/huochai.png)
+
+## [024《狗站》随机获取一只狗狗图片](https://shibe.online/)
+
+
+每次刷新网页，都会自动出现一只狗狗的照片，这简直是爱狗人士的福利吖（这就是云撸狗!）～
+
+这个网站提供了狗狗图片的api服务， 用GET方法请求(浏览器打开也可以) 以下url
+
+http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
+
+即可收到带有100张狗狗图片的数组
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/dogserver.png)
+
+
+
+## [023《背景底纹》背景底纹汇聚于此](http://bg-patterns.com/)
+
+
+背景底纹就像墙纸，可以让背景不那么单调，运用得当可以提升设计作品的格调
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/bg.png)
+
+## [022《Colorhunt》提供现成的配色案例](https://colorhunt.co/)
+
+优质的配色可以让设计赏心悦目, 直接借鉴（抄）ColorHunt提供的大师级配色方案，可以提升设计作品的质量
+
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/ColorHunt.png)
+
+
+
+
+## [021《反斗软件》白送软件要不要？](http://free.apprcn.com/)
+
+
+没有买正版软件的预算? 白送软件要不要? 反斗软件每天推送最新的软件限时免费信息, 多逛这个网站,能省掉不少买正版软件/正版游戏游戏 的钱
+
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/fandou.png)
+
+
+
 ## [020《品质最高的免费素材站Pexels》优质图片视频素材下载](https://www.pexels.com/)
 
 免费无版权图片站有很多，而Pexels在免费的同时，更注重品质，通过Pexels，可以更容易找到高品质的图片或视频
