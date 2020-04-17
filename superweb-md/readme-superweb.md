@@ -88,6 +88,44 @@
 **超赞网站宝典**之**在线工具**，已独立成册为[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 欢迎阅读～
 
 
+## [030《贪吃蛇》适配移动端和PC端的小游戏](https://playsnake.org/)
+
+![](https://www.v2fy.com/asset/super-web/snake.png)
+
+
+一个在线贪吃蛇小游戏, PC端可以通过键盘上下左右键控制, 手机端可以通过滑动屏幕控制,初始速度有`慢速, 中速, 快速`三级别可选,点击屏幕可以暂停/继续游戏
+
+
+## [029《假装操作系统升级》摸鱼基本技能](http://fakeupdate.net/)
+
+![](https://www.v2fy.com/asset/super-web/windowsupdate.png)
+
+选择网页右侧升级界面后,将网页全屏, 可以假装计算机升级,进而摸鱼
+
+
+## [028《高清MP4》热门电影电视剧超清画渣下载](http://mp4ba.cc/)
+
+![](https://www.v2fy.com/asset/super-web/dianying.png)
+
+
+一个下载热播电影,电视剧,动漫资源的网站
+
+## [027《在线听各种版权的歌》](http://tool.liumingye.cn/music/)
+
+![](https://www.v2fy.com/asset/super-web/qingtian.png)
+
+全网最强音乐网页播放器,无需登录, 即可在线听QQ音乐, 网易云音乐
+
+
+## [026《今天中午吃什么》解决全人类的难题](https://www.zwcsm.com/)
+
+![](https://www.v2fy.com/asset/super-web/zwcsm.png)
+
+
+
+ 麻辣烫 黄焖鸡 馄饨 肯德基 粥 饺子 寿司 米线 回锅肉 火锅 兰州拉面 麦当劳 沙县小吃 重庆小面 木桶饭 麻辣香锅 盖饭 麻婆豆腐 果汁 啤酒 汤圆 羊肉汤 糍粑 姜母鸭 三明治 小笼包 呷哺呷哺 烧烤 冒菜 螺蛳粉 酸辣粉 必胜客 生煎 锅包肉 溜肉段 披萨 烤肉饭 酸菜鱼 鸡巴 米饭 西葫芦炒鸡蛋 紫菜包饭 驴肉火烧 红牛 咖啡 牛奶 红茶 糯米饭 烧腊 年糕
+
+
 ## [025《人类象形图》专业火柴人素材站](http://pictogram2.com/)
 
 如果以抽象的眼光看人类,人类就是火柴人, 我们在设计各种PPT时,往往要遵循「少即是多」的原则，这个火柴人小站，能为我们提供丰富的火柴人素材来表现人物活动，让我们PPT的设计快速提高一个档次
