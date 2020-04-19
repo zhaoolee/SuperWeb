@@ -28,7 +28,11 @@ title: 020《MyFreeMP3》在线听QQ音乐，网易云音乐所有VIP歌曲
 
 ![](https://www.v2fy.com/asset/super-web/m003.gif)
 
+
+
 当播放器背景为空时， 双击左上角图标可以换背景， 如果你已经为播放器选择了图片背景，如果再次双击左上角图标，则会刷新网页，网页刷新后，背景图也会消失
+![](https://www.v2fy.com/asset/super-web/huiye.jpg)
+
 
 
 ## 下载封面和无损音乐
