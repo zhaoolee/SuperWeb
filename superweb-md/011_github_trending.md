@@ -3,8 +3,8 @@ title: 011《Github趋势榜》了解Github当前最受关注的项目
 ---
 
 
-## 直达链接: [https://igetintopc.com/](https://igetintopc.com/)
 
+## 直达链接: [https://github.com/trending](https://github.com/trending)
 
 Github的Trending页面,相当于Github的首页推荐,github会把过去24小时,最受关注的的仓库,展现到这个页面;
 

@@ -3,7 +3,7 @@ title: 010《GetIntoPC》更新极快的绿色软件站
 ---
 
 
-## 直达链接: [https://github.com/trending](https://github.com/trending)
+## 直达链接: [https://igetintopc.com/](https://igetintopc.com/)
 
 
 Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非常推荐！ 
