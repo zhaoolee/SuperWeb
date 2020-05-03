@@ -11,8 +11,9 @@
 **超赞网站宝典**在Github开源,开源地址 [https://github.com/zhaoolee/SuperWeb](https://github.com/zhaoolee/SuperWeb)， 小伙伴们可以到仓库的issues，推荐自己喜欢的网站，也可以将网址发到邮箱 zhaoolee@gmail.com
 
 
+![0加1](https://www.v2fy.com/asset/qr/jikemiji.png)
 
-
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 SuperWeb (超赞网站宝典) , 欢迎关注~
 
 ## 目录
 
