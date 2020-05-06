@@ -121,6 +121,14 @@
 **超赞网站宝典**之**在线工具**，已独立成册为[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) 欢迎阅读～
 
 
+## [031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/031_emojipedia/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/emoji-apple.png)
+
+通过emojipedia.org探索更多Emoji表情
+
+
 ## [030《贪吃蛇》适配移动端和PC端的小游戏](https://playsnake.org/)
 
 ![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/snake.png)
