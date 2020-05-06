@@ -21,6 +21,9 @@
 [超赞网站宝典](https://www.v2fy.com/p/readme-superweb/)
 
 
+[031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/031_emojipedia/)
+
+
 [030《贪吃蛇》适配移动端和PC端的小游戏](https://www.v2fy.com/p/030_playsnake_org/)
 
 
