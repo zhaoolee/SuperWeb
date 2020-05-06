@@ -6,8 +6,6 @@
 
 
 
-
-
 **超赞网站宝典**在Github开源,开源地址 [https://github.com/zhaoolee/SuperWeb](https://github.com/zhaoolee/SuperWeb)， 小伙伴们可以到仓库的issues，推荐自己喜欢的网站，也可以将网址发到邮箱 zhaoolee@gmail.com
 
 ## 内容同步更新到公众号「0加1」
